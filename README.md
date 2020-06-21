@@ -1,4 +1,4 @@
-# math-project
+# QuizMaker
 
 > A Vue.js project
 
